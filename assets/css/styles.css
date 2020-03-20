@@ -1,0 +1,21 @@
+.tag {
+	font-weight: bold; margin-right: 1em;
+}
+
+.value {
+	font-family: monospace;
+}
+
+.pre {
+	font-family: monospace; white-space: pre;
+}
+
+
+.centrar{
+	text-align: center;
+}
+
+.ajustaCard{
+    margin-top: 48px;
+    margin-left: 112px;
+}
